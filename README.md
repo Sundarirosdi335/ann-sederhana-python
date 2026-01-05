@@ -11,3 +11,6 @@ menggunakan bahasa pemrograman Python.
 ## Cara Menjalankan
 ```bash
 python ann.py
+## Contoh Output Program
+
+![Output ANN](output.png)
